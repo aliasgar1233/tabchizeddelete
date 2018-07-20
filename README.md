@@ -19,8 +19,8 @@
 # نصب
 
 ```sh
-git clone https://github.com/persiancyber/persianteam
-cd persianteam
+git clone https://github.com/aliasgar1233/tabchizeddelete
+cd tabchizeddelete
 chmod +x bot
 ./bot install
 # and send [y] to finish install
@@ -36,7 +36,7 @@ chmod +x bot
 ## ساخت ربات های بیش تر
 
 ```sh
-cd persianteam
+cd tabchizeddelete
 ./bot create
 ./bot number of bot >> شماره رباتی که به شما میدهد
 وارد کردن ایدی عددی سودو#
@@ -45,16 +45,16 @@ cd persianteam
 * * *
 ## اتولاچ
 ```sh
-cd persianteam
+cd tabchizeddelete
 ./bot autolaunch
 تمام ربات ها راه اندازی میشوند بدون خاموشی#
 ```
 ***
 ### اموزش ها
 
-[اموزش کامل نصب](https://telegram.me/etehad_arazel)
+[اموزش کامل نصب](https://telegram.me/tphack)
 
 ### Developers
-[persiancyber1](https://telegram.me/persiancyber1)
+[arhack12](https://telegram.me/arhack12)
 ### channel
-[arazelteam](https://telegram.me/etehad_arazel)
+[arazelteam](https://telegram.me/tphack)
